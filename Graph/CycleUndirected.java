@@ -35,7 +35,7 @@ public class CycleUndirected {
         for (int i = 0; i < graph[curr].size(); i++) {
             Edge e = graph[curr].get(i);
 
-            //case 1 visited and ot parent-->cycle
+            //case 1 visited and not parent-->cycle
             if(visited[e.dest] && e.dest!=parent) return true;
 
             //case 2 not visited--> recursion
