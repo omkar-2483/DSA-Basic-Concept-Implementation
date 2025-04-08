@@ -1,4 +1,3 @@
-package ass10;
 import java.util.Scanner;
 
 class CircularQueue {

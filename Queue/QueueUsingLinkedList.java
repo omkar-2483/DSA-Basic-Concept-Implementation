@@ -1,4 +1,3 @@
-package ass9;
 import java.util.Scanner;
 
 class node{

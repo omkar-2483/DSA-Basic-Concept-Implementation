@@ -1,5 +1,3 @@
-package ass6;
-
 class StackArray{
 	private int maxSize;
 	private int stackArray[];

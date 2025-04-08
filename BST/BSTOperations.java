@@ -1,5 +1,3 @@
-package DSAProblems;
-
 class Node {
     int data;
     Node left;

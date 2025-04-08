@@ -1,5 +1,3 @@
-package ass10;
-
 public class FixedSizeArrayQueue {
 	//Array used to implement the circular queue
 	int[] arrayQueue;

@@ -6,7 +6,6 @@
 //write a java program to implement stack using Linked List
 //1. push an element on stack 2.pop an element from stack 3. display stack 
 
-package ass7;
 import java.util.Scanner;
 
 //create class to create node of linked list

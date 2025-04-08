@@ -1,4 +1,3 @@
-package ass8;
 import java.util.*;
 class Queue{
 	int front,rear;

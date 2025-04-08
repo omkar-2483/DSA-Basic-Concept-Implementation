@@ -1,4 +1,3 @@
-package ass5;
 import java.util.Scanner;
 
 class Employee {

@@ -1,4 +1,3 @@
-package DSAProblems;
 import java.util.*;
 
 public class ParenthesisCheck {

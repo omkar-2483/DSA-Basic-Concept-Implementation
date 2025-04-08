@@ -1,5 +1,3 @@
-package sce;
-
 class Node{
 	int data;
 	Node prev;
