@@ -5,7 +5,6 @@
 //place third queen in third row and so on
 //if all queens place print solution else backtrack and change position of most recent queen 
 
-package DSAbacktracting;
 import java.util.*;
 
 

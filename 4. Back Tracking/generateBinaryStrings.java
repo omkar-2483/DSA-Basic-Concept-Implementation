@@ -1,6 +1,5 @@
 //generate all possible binary strings of n bit
 //backTracking
-package DSA;
 
 public class generateBinaryStrings {
 	public static void display(int[] arr) {
